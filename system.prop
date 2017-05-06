@@ -37,6 +37,7 @@ qcom.bluetooth.soc=rome
 camera.disable_zsl_mode=1
 media.camera.ts.monotonic=false
 persist.camera.hal.debug=0
+camera.hal3.packagelist=com.google.android.GoogleCamera
 
 # CNE (needed for IMS)
 persist.cne.feature=1
